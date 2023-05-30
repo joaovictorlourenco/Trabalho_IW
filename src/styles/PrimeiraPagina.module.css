@@ -1,0 +1,28 @@
+.page1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    /* background-color: #252525; */
+
+    /* background-image: url('../public/images/background.jpg'); */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+    font-size: 35px;
+}
+/* 
+.h1{
+
+    color: whitesmoke;
+
+}
+.h3{
+
+    color: orange;
+
+} */
