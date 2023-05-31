@@ -42,20 +42,20 @@ function Content(){
             className={styles.img}
             />
 
-            <div>
+            <div className={styles.bodyText}>
             Já na interface do Duolingo, a quantidade reduzida de informações guiam o usuário diretamente para a ação principal do site.<br/><br/>
 
             Outros bons exemplos conhecidos dessa simplicidade que dá certo, são sites de busca como o Google, o Yahoo e o Bing.
 
             </div>
-            
+
           </Container>
 
           <Button 
               className={style.button}
               endIcon={< ArrowForwardIcon />}>
               <Link
-              href="/segundaPagina"
+              href="/terceiraPagina"
               className={style.color}
               >
                 Continuar

@@ -34,9 +34,15 @@ export default function Navbar(){
             </Link>
             <Link
               className={style.tabLink}
-              href="#"
+              href="/terceiraPagina"
             >
               Similaridade
+            </Link>
+            <Link
+              className={style.tabLink}
+              href="/quartaPagina"
+            >
+              Continuidade
             </Link>
           </nav> 
         </Toolbar>
