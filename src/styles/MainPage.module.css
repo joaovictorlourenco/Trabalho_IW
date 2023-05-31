@@ -8,3 +8,50 @@
     color: #FFCD01;
 
 }
+.tabLink{
+
+    color: #FFCD01;
+
+}
+
+.tabLink:hover{
+    transition: 300ms ;
+    filter: brightness(0.8);
+
+}
+
+.tabLink{
+
+    color: #FFCD01;
+
+}
+.nav{
+
+    display: flex;
+    gap: 1rem;
+
+}
+
+.color{
+
+    color: '#252525';
+    font-weight: 600;
+     
+}
+.button{
+
+    width: 300px;
+    background-color: #FFCD01;
+    color: #252525;
+    transition: 400ms;
+    margin: 2rem;
+
+}
+
+.button:hover{
+    
+    transition: 400ms;
+    width: 180px;
+    background-color: #FFCD01;
+
+}
