@@ -9,7 +9,7 @@ import Image from 'next/image'
 
 import img8 from '../../public/img8.webp'
 import img9 from '../../public/img9.webp'
-import img10 from '../../public/img9.webp'
+import img10 from '../../public/img10.webp'
 
 
 function Content(){

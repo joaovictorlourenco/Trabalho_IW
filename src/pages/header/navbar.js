@@ -44,6 +44,24 @@ export default function Navbar(){
             >
               Continuidade
             </Link>
+            <Link
+              className={style.tabLink}
+              href="/quintaPagina"
+            >
+              Simetria
+            </Link>
+            <Link
+              className={style.tabLink}
+              href="/sextaPagina"
+            >
+              Fechamento
+            </Link>
+            <Link
+              className={style.tabLink}
+              href="/setimaPagina"
+            >
+              Destino Comum
+            </Link>
           </nav> 
         </Toolbar>
       </>
