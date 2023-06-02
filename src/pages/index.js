@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Box, Button } from '@mui/material';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import Navbar from './header/navbar'
-import style from "../styles/MainPage.module.css"
+import style from '../../src/styles/MainPage.module.css'
 
 
 function MainPage(){

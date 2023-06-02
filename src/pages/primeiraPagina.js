@@ -1,6 +1,6 @@
 import { Container, Box, Button } from '@mui/material'
-import styles from '../styles/PrimeiraPagina.module.css'
-import style from "../styles/MainPage.module.css"
+import styles from '../../src/styles/PrimeiraPagina.module.css'
+import style from '../../src/styles/MainPage.module.css'
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import Link from 'next/link';
 import Image from 'next/image'
